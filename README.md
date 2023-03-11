@@ -21,7 +21,7 @@ There are 2 parts in this lab assignment:
 * Part2 - Implementation with gRPC and Built in Thread Pool
 
 
-Please click [here](https://github.com/Leozhang0301/Maxleo-Online-Store/tree/main/Lab1) to check out the **README** for details.
+Please click [here](https://github.com/Leozhang0301/Maxleo-Online-Store/tree/master/Lab1) to check out the **README** for details.
 
 
 
@@ -37,7 +37,7 @@ There are 2 parts in this lab assignment:
 * Part2 - Containerize Application with Docker
 
 
-Please click [here](https://github.com/Leozhang0301/Maxleo-Online-Store/tree/main/Lab2) to check out the **README** for details.
+Please click [here](https://github.com/Leozhang0301/Maxleo-Online-Store/tree/master/Lab2) to check out the **README** for details.
 
 
 
@@ -54,7 +54,7 @@ There are 2 parts in this lab assignment:
 * Part2 - Deployment on AWS
 
 
-Please click [here](https://github.com/Leozhang0301/Maxleo-Online-Store/tree/main/Lab3) to check out the **README** for details.
+Please click [here](https://github.com/Leozhang0301/Maxleo-Online-Store/tree/master/Lab3) to check out the **README** for details.
 
 
 
